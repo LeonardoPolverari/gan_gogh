@@ -2,7 +2,7 @@
 
 GAN Gogh is an **image inpainting model** trained on **60,000 images** from **10 different artistic movements**. The model is designed to reconstruct missing regions in corrupted artwork, preserving the essence of the original piece.
 
-![Example](example.jpg)
+![Example](images/example.jpg)
 
 ## Approach
 
