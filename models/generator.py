@@ -106,7 +106,7 @@ def DecoderBlock(inputs, skip, filters):
     return x
 
 # Full Model
-def build_model(input_shape=(256, 256, 1), channels=1):
+def get_generator(input_shape=(256, 256, 1), channels=1):
     inputs = layers.Input(shape=input_shape)
 
     # Encoder
