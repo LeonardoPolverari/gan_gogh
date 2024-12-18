@@ -24,4 +24,6 @@ Our GAN employs a dual-loss strategy to achieve high-quality inpainting:
 
 The combination of a U-Net backbone, attention mechanism, and carefully designed loss functions allows GAN Gogh to handle complex artistic styles and seamlessly integrate reconstructed regions into the surrounding image context.
 
+![Generator Structure](images/generator.png)
+
 ---
