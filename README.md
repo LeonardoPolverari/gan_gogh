@@ -1,5 +1,3 @@
-u-net with attention mechanism
-
 # GAN Gogh: Image Inpainting for Artistic Reconstruction
 
 GAN Gogh is an **image inpainting model** trained on **60,000 images** from **10 different artistic movements**. The model is designed to reconstruct missing regions in corrupted artwork, preserving the essence of the original piece.
