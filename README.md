@@ -2,6 +2,8 @@
 
 GAN Gogh is an **image inpainting model** trained on **60,000 images** from **10 different artistic movements**. The model is designed to reconstruct missing regions in corrupted artwork, preserving the essence of the original piece.
 
+![Example](example.jpg)
+
 ## Approach
 
 We use a **U-Net-based GAN architecture** with an **attention mechanism** integrated into the bottleneck. The attention mechanism helps the model capture **global context**, ensuring more accurate and coherent reconstruction of the missing regions.
